@@ -3,7 +3,11 @@
 ## Description
 This repository holds the material for teaching how to explain decision tree models.
 
-## File description
+## File description  
+Because the example given by Molnar's book is not strictly a classfication, to avoid confuse students, I used iris dataset instead. I still prepared an R script and a Jupyter Notebook for the bike dataset, but that is why we have two sets of scripts.
+
+**XAI_decision_tree_bike.ipynb** and **decision_tree_bike.R**: Demo code for the bike example
+**XAI_decision_tree_iris.ipynb** and **decision_tree_iris.R**: Demo code for the iris example
 
 ## Reading materials
 **Main:** Explain decision tree model: https://christophm.github.io/interpretable-ml-book/tree.html
